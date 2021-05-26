@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\mpp-proiect-repository-Iri25\mpp-proiect-repository-CSharp-Iri25\FlightCompanyREST\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\mpp-proiect-repository-Iri25\mpp-proiect-repository-CSharp-Iri25\FlightCompanyREST\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mpp-proiect-repository-Iri25\mpp-proiect-repository-CSharp-Iri25\FlightCompanyREST\Model\bin\Debug\Model.exe.config
+C:\Users\HP\Desktop\mpp-proiect-repository-Iri25\mpp-proiect-repository-CSharp-Iri25\FlightCompanyREST\Model\bin\Debug\Model.exe
+C:\Users\HP\Desktop\mpp-proiect-repository-Iri25\mpp-proiect-repository-CSharp-Iri25\FlightCompanyREST\Model\bin\Debug\Model.pdb
+C:\Users\HP\Desktop\mpp-proiect-repository-Iri25\mpp-proiect-repository-CSharp-Iri25\FlightCompanyREST\Model\obj\Debug\Model.exe
+C:\Users\HP\Desktop\mpp-proiect-repository-Iri25\mpp-proiect-repository-CSharp-Iri25\FlightCompanyREST\Model\obj\Debug\Model.pdb
