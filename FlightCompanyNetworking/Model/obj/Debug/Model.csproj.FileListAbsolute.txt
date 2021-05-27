@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Database\FlightCompany\Model\bin\Debug\Model.exe.config
+C:\Users\HP\Desktop\Database\FlightCompany\Model\bin\Debug\Model.exe
+C:\Users\HP\Desktop\Database\FlightCompany\Model\bin\Debug\Model.pdb
+C:\Users\HP\Desktop\Database\FlightCompany\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Database\FlightCompany\Model\obj\Debug\Model.exe
+C:\Users\HP\Desktop\Database\FlightCompany\Model\obj\Debug\Model.pdb
