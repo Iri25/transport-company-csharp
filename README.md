@@ -1,4 +1,4 @@
-# transport-company-c#
+# transport-company-csharp
 C# project containing several applications for a transport company with a graphical interface (GUI) developed in Windows Forms Applications.
 - Application with a layered architecture: data access layer, persistence layer, business layer and presentation layer ([FlightCompanyApplication](https://github.com/Iri25/mpp-proiect-repository-CSharp-Iri25/tree/main/FlightCompanyApplication)).
 - Application that implements the networking part using sockets and threads and notifies scientists when the data is updated [FlightCompanyNetworking](https://github.com/Iri25/mpp-proiect-repository-CSharp-Iri25/tree/main/FlightCompanyNetworking)).
